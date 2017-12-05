@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/fondo"
     android:orientation="horizontal"
     android:weightSum="1"
     tools:context="xyz.maog.tresenraya.MainActivity">
