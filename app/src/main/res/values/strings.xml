@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Noughts and crosses</string>
+    <string name="app_name">Tic tac toe</string>
     <string name="un_jugador">1 player</string>
     <string name="dos_jugadores">2 players</string>
     <string name="facil">Easy</string>
