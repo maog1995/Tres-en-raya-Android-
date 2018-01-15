@@ -57,6 +57,7 @@
         <Button
             android:id="@+id/BTN2jugador"
             style="@style/boton"
+            android:enabled="false"
             android:text="@string/dos_jugadores" />
     </LinearLayout>
 
